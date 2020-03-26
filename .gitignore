@@ -28,7 +28,7 @@ plugins/ios.json
 $RECYCLE.BIN/
 
 *config.ts
-*config*
+src/config/config.ts
 
 .DS_Store
 # Elastic Beanstalk Files
