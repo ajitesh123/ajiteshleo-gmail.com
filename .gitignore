@@ -27,6 +27,8 @@ plugins/android.json
 plugins/ios.json
 $RECYCLE.BIN/
 
+config.ts
+
 .DS_Store
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
